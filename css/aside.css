@@ -1,0 +1,18 @@
+#additional-info .additional-info-container {
+  display: grid;
+  grid-gap: 1rem;
+}
+
+#additional-info img {
+  border-radius: 50%;
+}
+
+#additional-info ul li {
+  border-bottom: #5f9ea0 dotted 1px;
+}
+
+.social {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1rem 0;
+}
